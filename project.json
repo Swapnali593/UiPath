@@ -1,0 +1,61 @@
+{
+  "name": "2021PacticeSession",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Fare": "[2.1.2]",
+    "Flatbox.RegularExpressions": "[1.0.0]",
+    "Magurany.Web.Routing.RegularExpressions": "[2.1.0]",
+    "Surviveplus.RegularExpressionQuery": "[1.0.3-beta]",
+    "System.Text.RegularExpressions": "[4.3.1]",
+    "UiPath.Excel.Activities": "[2.9.3]",
+    "UiPath.Mail.Activities": "[1.9.3]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[20.10.6]",
+    "Utils.RegularExpressions_Contextual": "[1.0.2]",
+    "Validators.RegularExpressions": "[1.0.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.2.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "1a94a8cd-64eb-436d-a0d2-776386390814",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
